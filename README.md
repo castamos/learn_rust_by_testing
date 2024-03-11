@@ -115,7 +115,7 @@ testing (the compiler/interpreter or library against which we are running the
 tests). In other words, these tests are not meant to verify the thing tested
 behaves as we think it should; instead they are meant to verify that we, the
 learners (assuming a tester role), understand how the thing actually behaves
-regardless of if its behavior is "correct" or not. In short, we take the saying
-that _"there are no bugs, just undocumented features"_ to the next level,
-because we just want to get thinks done.
+regardless of if its behavior is "correct" or not.  In short, we take the
+saying that _"there are no bugs, just undocumented features"_ to the next
+level, because we just want to get thinks done.
 
